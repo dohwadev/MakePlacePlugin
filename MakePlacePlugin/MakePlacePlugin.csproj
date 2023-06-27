@@ -1,12 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<DalamudLibPath>E:\GitHubDesktop\Dalamud 7.3.5.0\bin\Release\</DalamudLibPath>
-		<PluginVersion>2.18</PluginVersion>
+		<DalamudLibPath>E:\GitHubDesktop\dohwacorp\Dalamud\bin\Release\</DalamudLibPath>
+		<PluginVersion>2.21</PluginVersion>
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<TargetFramework>net6.0-windows</TargetFramework>
+		<TargetFramework>net7.0-windows</TargetFramework>
 		<LangVersion>latest</LangVersion>
 		<AssemblyTitle>MakePlacePlugin</AssemblyTitle>
 		<Product>MakePlacePlugin</Product>
